@@ -10,3 +10,4 @@ dependencies:
   - bqplot=0.12.30
   - bokeh
   - seaborn
+  - openpyxl
